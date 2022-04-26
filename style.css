@@ -1,0 +1,49 @@
+
+
+
+/* Le header est sous la charge de William merci*/
+
+header{
+    background-color: #ff2d2d;
+    height: 10vh;
+}
+
+header ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+header ul li{
+    list-style-type: none;
+}
+
+header ul li a{
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 1.2em;
+    position: relative;
+    top: 30px;
+}
+
+
+@keyframes mesAnimations{
+    from{
+        color: #ffffff;
+    }
+
+    50%{
+        color: aqua;
+    }
+
+    to{
+        color: #ffffff;
+        transition: all 1s ease;
+    }
+}
+
+
+header ul li a:hover{
+    animation: mesAnimations 1s infinite alternate;
+}
