@@ -14,6 +14,6 @@ Alors il question de créer:
 
 Pour ce qui est du style, soyez à l'aise avec.
 
-
+// je prends la partie section , titre et quatre paragraphes
 
     

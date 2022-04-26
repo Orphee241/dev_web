@@ -1,0 +1,25 @@
+/* ma partie css */
+.container{
+   
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.container h1{
+    font-size: 3rem;
+    font-weight: 700;
+    color: #525252;
+    text-transform: uppercase;
+    margin-left: 10px;
+
+
+}
+.paragraphe{
+    font-size: 1.5rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #333;
+    font-weight: 600;
+    margin-left: 10px;
+}
+/*fin de ma partie css */
