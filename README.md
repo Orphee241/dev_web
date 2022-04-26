@@ -5,6 +5,8 @@ Alors il question de créer:
     section 2 doit être composé d'un titre h1: Je suis la section 2 avec 4 paragraphes
     section 3 doit être composé d'un titre h1: Je suis la section 3 avec 4 paragraphes
     section 4 doit être composé d'un titre h1: Je suis la section 4 avec 5 paragraphes
+    section 5 doit être composé d'un titre h1: Je suis la section 5 avec 6 paragraphes
+    section 6 doit être composé d'un titre h1: Je suis la section 6 avec 2 paragraphes
 
     NB: Le choix du contenu des paragraphes vous revient.
 
