@@ -117,4 +117,15 @@ header ul li a:hover{
     font-style: oblique;
 }
 
+.boutton a{
+    text-decoration: none;
+    color: rgb(252, 250, 250);
+    background-color: #ff2d2d;
+    padding: 10px 20px;
+    border-radius: 50px;
+    font-family: 'Assassin$';
+    font-size: 25px;
+   
+}
+
 
