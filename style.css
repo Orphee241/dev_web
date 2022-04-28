@@ -72,3 +72,12 @@ header ul li a:hover{
     margin-left: 10px;
 }
 /*fin de ma partie css */
+#footer{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1rem;
+    color: pink;
+    background-color: black;
+
+}
