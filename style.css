@@ -77,8 +77,8 @@ header ul li a:hover{
 /* Lunatic boy contribution */
 
 @font-face {
-    font-family: 'Assassin$', Verdana, Geneva, Tahoma, sans-serif;
-    src: url('./Assassin$.ttf'); 
+    font-family: 'Assassin$';
+    src: url('/Assassin$.ttf'); 
 }
 
 .sect{
