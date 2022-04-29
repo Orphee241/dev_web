@@ -6,6 +6,9 @@
 header{
     background-color: #ff2d2d;
     height: 10vh;
+    margin: 0;
+    position: relative ;
+    top: -17px ;
 }
 
 header ul{
@@ -24,7 +27,7 @@ header ul li a{
     color: #ffffff;
     font-size: 1.2em;
     position: relative;
-    top: 30px;
+    line-height: 10vh;
 }
 
 
